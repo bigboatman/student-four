@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run web_model.py
+web: sh setup.sh && streamlit run ex1.py
